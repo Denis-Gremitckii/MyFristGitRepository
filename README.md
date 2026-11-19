@@ -1,1 +1,2 @@
 # MyFristGitRepository
+Для проверки конфликта
